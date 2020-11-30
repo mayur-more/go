@@ -1,0 +1,10 @@
+2020/11/29 10:58:37 error: open /path/to/config.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/mayurmore/eclipse-workspace/golang_practice/Go_Essential_training/src/ch5/errors_complete.go:20
+main.main
+	/Users/mayurmore/eclipse-workspace/golang_practice/Go_Essential_training/src/ch5/errors_complete.go:41
+runtime.main
+	/usr/local/Cellar/go/1.15.5/libexec/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/Cellar/go/1.15.5/libexec/src/runtime/asm_amd64.s:1374
